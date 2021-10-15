@@ -1,0 +1,160 @@
+C:\Users\Administrator\Desktop\StartMenu\bin\Debug\StartMenu.exe.config
+C:\Users\Administrator\Desktop\StartMenu\bin\Debug\StartMenu.exe
+C:\Users\Administrator\Desktop\StartMenu\bin\Debug\StartMenu.pdb
+C:\Users\Administrator\Desktop\StartMenu\obj\Debug\StartMenu.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\StartMenu\obj\Debug\StartMenu.Form1.resources
+C:\Users\Administrator\Desktop\StartMenu\obj\Debug\StartMenu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\StartMenu\obj\Debug\StartMenu.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\StartMenu\obj\Debug\StartMenu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\StartMenu\obj\Debug\StartMenu.exe
+C:\Users\Administrator\Desktop\StartMenu\obj\Debug\StartMenu.pdb
+C:\Users\Administrator\Downloads\StartMenu\obj\Debug\StartMenu.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\StartMenu\obj\Debug\StartMenu.Form1.resources
+C:\Users\Administrator\Downloads\StartMenu\obj\Debug\StartMenu.Form2.resources
+C:\Users\Administrator\Downloads\StartMenu\obj\Debug\StartMenu.Properties.Resources.resources
+C:\Users\Administrator\Downloads\StartMenu\obj\Debug\StartMenu.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\StartMenu\obj\Debug\StartMenu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\StartMenu\obj\Debug\StartMenu.exe
+C:\Users\Administrator\Downloads\StartMenu\obj\Debug\StartMenu.pdb
+C:\Users\Administrator\Downloads\StartMenu\bin\Debug\StartMenu.exe.config
+C:\Users\Administrator\Downloads\StartMenu\bin\Debug\StartMenu.exe
+C:\Users\Administrator\Downloads\StartMenu\bin\Debug\StartMenu.pdb
+C:\Users\Administrator\Desktop\Quarto\bin\Debug\StartMenu.exe.config
+C:\Users\Administrator\Desktop\Quarto\bin\Debug\StartMenu.exe
+C:\Users\Administrator\Desktop\Quarto\bin\Debug\StartMenu.pdb
+C:\Users\Administrator\Desktop\Quarto\obj\Debug\StartMenu.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Quarto\obj\Debug\StartMenu.Form1.resources
+C:\Users\Administrator\Desktop\Quarto\obj\Debug\StartMenu.Form2.resources
+C:\Users\Administrator\Desktop\Quarto\obj\Debug\StartMenu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Quarto\obj\Debug\StartMenu.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Quarto\obj\Debug\StartMenu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Quarto\obj\Debug\StartMenu.exe
+C:\Users\Administrator\Desktop\Quarto\obj\Debug\StartMenu.pdb
+C:\Users\user\OneDrive\Desktop\Quarto\Quarto\bin\Debug\StartMenu.exe.config
+C:\Users\user\OneDrive\Desktop\Quarto\Quarto\bin\Debug\StartMenu.exe
+C:\Users\user\OneDrive\Desktop\Quarto\Quarto\bin\Debug\StartMenu.pdb
+C:\Users\user\OneDrive\Desktop\Quarto\Quarto\obj\Debug\StartMenu.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Quarto\Quarto\obj\Debug\StartMenu.Form1.resources
+C:\Users\user\OneDrive\Desktop\Quarto\Quarto\obj\Debug\StartMenu.Form2.resources
+C:\Users\user\OneDrive\Desktop\Quarto\Quarto\obj\Debug\StartMenu.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\Quarto\Quarto\obj\Debug\StartMenu.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\Quarto\Quarto\obj\Debug\StartMenu.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Quarto\Quarto\obj\Debug\StartMenu.exe
+C:\Users\user\OneDrive\Desktop\Quarto\Quarto\obj\Debug\StartMenu.pdb
+C:\Users\Administrator\Downloads\Quarto\Quarto\bin\Debug\StartMenu.exe.config
+C:\Users\Administrator\Downloads\Quarto\Quarto\bin\Debug\StartMenu.exe
+C:\Users\Administrator\Downloads\Quarto\Quarto\bin\Debug\StartMenu.pdb
+C:\Users\Administrator\Downloads\Quarto\Quarto\obj\Debug\StartMenu.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Quarto\Quarto\obj\Debug\StartMenu.Form1.resources
+C:\Users\Administrator\Downloads\Quarto\Quarto\obj\Debug\StartMenu.Form2.resources
+C:\Users\Administrator\Downloads\Quarto\Quarto\obj\Debug\StartMenu.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Quarto\Quarto\obj\Debug\StartMenu.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Quarto\Quarto\obj\Debug\StartMenu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Quarto\Quarto\obj\Debug\StartMenu.exe
+C:\Users\Administrator\Downloads\Quarto\Quarto\obj\Debug\StartMenu.pdb
+C:\Users\Administrator\Desktop\Quarto\obj\Debug\StartMenu.Form3.resources
+C:\Users\user\OneDrive\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\bin\Debug\StartMenu.exe.config
+C:\Users\user\OneDrive\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\bin\Debug\StartMenu.exe
+C:\Users\user\OneDrive\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\bin\Debug\StartMenu.pdb
+C:\Users\user\OneDrive\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\obj\Debug\StartMenu.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\obj\Debug\StartMenu.Form1.resources
+C:\Users\user\OneDrive\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\obj\Debug\StartMenu.Form2.resources
+C:\Users\user\OneDrive\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\obj\Debug\StartMenu.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\obj\Debug\StartMenu.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\obj\Debug\StartMenu.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\obj\Debug\StartMenu.exe
+C:\Users\user\OneDrive\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\obj\Debug\StartMenu.pdb
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\bin\Debug\StartMenu.exe.config
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\bin\Debug\StartMenu.exe
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\bin\Debug\StartMenu.pdb
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\obj\Debug\StartMenu.csprojAssemblyReference.cache
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\obj\Debug\StartMenu.Form1.resources
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\obj\Debug\StartMenu.Form2.resources
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\obj\Debug\StartMenu.Properties.Resources.resources
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\obj\Debug\StartMenu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\obj\Debug\StartMenu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\obj\Debug\StartMenu.exe
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Info 3\Midterm  Project Quarto Game III\Quarto\obj\Debug\StartMenu.pdb
+C:\Users\Administrator\Downloads\Quarto\bin\Debug\StartMenu.exe.config
+C:\Users\Administrator\Downloads\Quarto\bin\Debug\StartMenu.exe
+C:\Users\Administrator\Downloads\Quarto\bin\Debug\StartMenu.pdb
+C:\Users\Administrator\Downloads\Quarto\obj\Debug\StartMenu.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Quarto\obj\Debug\StartMenu.Form1.resources
+C:\Users\Administrator\Downloads\Quarto\obj\Debug\StartMenu.Form2.resources
+C:\Users\Administrator\Downloads\Quarto\obj\Debug\StartMenu.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Quarto\obj\Debug\StartMenu.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Quarto\obj\Debug\StartMenu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Quarto\obj\Debug\StartMenu.exe
+C:\Users\Administrator\Downloads\Quarto\obj\Debug\StartMenu.pdb
+C:\Users\Administrator\OneDrive - Lebanese University\Desktop\Quarto\bin\Debug\StartMenu.exe.config
+C:\Users\Administrator\OneDrive - Lebanese University\Desktop\Quarto\bin\Debug\StartMenu.exe
+C:\Users\Administrator\OneDrive - Lebanese University\Desktop\Quarto\bin\Debug\StartMenu.pdb
+C:\Users\Administrator\OneDrive - Lebanese University\Desktop\Quarto\obj\Debug\StartMenu.csprojAssemblyReference.cache
+C:\Users\Administrator\OneDrive - Lebanese University\Desktop\Quarto\obj\Debug\StartMenu.Properties.Resources.resources
+C:\Users\Administrator\OneDrive - Lebanese University\Desktop\Quarto\obj\Debug\StartMenu.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive - Lebanese University\Desktop\Quarto\obj\Debug\StartMenu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive - Lebanese University\Desktop\Quarto\obj\Debug\StartMenu.exe
+C:\Users\Administrator\OneDrive - Lebanese University\Desktop\Quarto\obj\Debug\StartMenu.pdb
+C:\Users\Administrator\OneDrive - Lebanese University\Desktop\Quarto\obj\Debug\StartMenu.Files.resources
+C:\Users\user\Desktop\UNI\Quarto\bin\Debug\StartMenu.exe.config
+C:\Users\user\Desktop\UNI\Quarto\bin\Debug\StartMenu.exe
+C:\Users\user\Desktop\UNI\Quarto\bin\Debug\StartMenu.pdb
+C:\Users\user\Desktop\UNI\Quarto\obj\Debug\StartMenu.csprojAssemblyReference.cache
+C:\Users\user\Desktop\UNI\Quarto\obj\Debug\StartMenu.Files.resources
+C:\Users\user\Desktop\UNI\Quarto\obj\Debug\StartMenu.Form1.resources
+C:\Users\user\Desktop\UNI\Quarto\obj\Debug\StartMenu.Form2.resources
+C:\Users\user\Desktop\UNI\Quarto\obj\Debug\StartMenu.Properties.Resources.resources
+C:\Users\user\Desktop\UNI\Quarto\obj\Debug\StartMenu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\UNI\Quarto\obj\Debug\StartMenu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UNI\Quarto\obj\Debug\StartMenu.exe
+C:\Users\user\Desktop\UNI\Quarto\obj\Debug\StartMenu.pdb
+C:\Users\Administrator\OneDrive - Lebanese University\Desktop\Quarto\obj\Debug\StartMenu.MainMenu.resources
+C:\Users\Administrator\OneDrive - Lebanese University\Desktop\Quarto\obj\Debug\StartMenu.GamePlay.resources
+C:\Users\user\Desktop\USB\Quarto\bin\Debug\StartMenu.exe.config
+C:\Users\user\Desktop\USB\Quarto\bin\Debug\StartMenu.exe
+C:\Users\user\Desktop\USB\Quarto\bin\Debug\StartMenu.pdb
+C:\Users\user\Desktop\USB\Quarto\obj\Debug\StartMenu.csprojAssemblyReference.cache
+C:\Users\user\Desktop\USB\Quarto\obj\Debug\StartMenu.Files.resources
+C:\Users\user\Desktop\USB\Quarto\obj\Debug\StartMenu.MainMenu.resources
+C:\Users\user\Desktop\USB\Quarto\obj\Debug\StartMenu.GamePlay.resources
+C:\Users\user\Desktop\USB\Quarto\obj\Debug\StartMenu.Properties.Resources.resources
+C:\Users\user\Desktop\USB\Quarto\obj\Debug\StartMenu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\USB\Quarto\obj\Debug\StartMenu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\USB\Quarto\obj\Debug\StartMenu.exe
+C:\Users\user\Desktop\USB\Quarto\obj\Debug\StartMenu.pdb
+C:\Users\user\Desktop\Quarto\bin\Debug\StartMenu.exe.config
+C:\Users\user\Desktop\Quarto\bin\Debug\StartMenu.exe
+C:\Users\user\Desktop\Quarto\bin\Debug\StartMenu.pdb
+C:\Users\user\Desktop\Quarto\obj\Debug\StartMenu.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Quarto\obj\Debug\StartMenu.Files.resources
+C:\Users\user\Desktop\Quarto\obj\Debug\StartMenu.MainMenu.resources
+C:\Users\user\Desktop\Quarto\obj\Debug\StartMenu.GamePlay.resources
+C:\Users\user\Desktop\Quarto\obj\Debug\StartMenu.Properties.Resources.resources
+C:\Users\user\Desktop\Quarto\obj\Debug\StartMenu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Quarto\obj\Debug\StartMenu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Quarto\obj\Debug\StartMenu.exe
+C:\Users\user\Desktop\Quarto\obj\Debug\StartMenu.pdb
+C:\Users\user\Desktop\Training\Quarto\bin\Debug\StartMenu.exe.config
+C:\Users\user\Desktop\Training\Quarto\bin\Debug\StartMenu.exe
+C:\Users\user\Desktop\Training\Quarto\bin\Debug\StartMenu.pdb
+C:\Users\user\Desktop\Training\Quarto\obj\Debug\StartMenu.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Training\Quarto\obj\Debug\StartMenu.Files.resources
+C:\Users\user\Desktop\Training\Quarto\obj\Debug\StartMenu.MainMenu.resources
+C:\Users\user\Desktop\Training\Quarto\obj\Debug\StartMenu.GamePlay.resources
+C:\Users\user\Desktop\Training\Quarto\obj\Debug\StartMenu.Properties.Resources.resources
+C:\Users\user\Desktop\Training\Quarto\obj\Debug\StartMenu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Training\Quarto\obj\Debug\StartMenu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Training\Quarto\obj\Debug\StartMenu.exe
+C:\Users\user\Desktop\Training\Quarto\obj\Debug\StartMenu.pdb
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Programing III\Midterm Project Quarto\Quarto midterm project final version\bin\Debug\StartMenu.exe.config
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Programing III\Midterm Project Quarto\Quarto midterm project final version\bin\Debug\StartMenu.exe
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Programing III\Midterm Project Quarto\Quarto midterm project final version\bin\Debug\StartMenu.pdb
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Programing III\Midterm Project Quarto\Quarto midterm project final version\obj\Debug\StartMenu.csprojAssemblyReference.cache
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Programing III\Midterm Project Quarto\Quarto midterm project final version\obj\Debug\StartMenu.Files.resources
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Programing III\Midterm Project Quarto\Quarto midterm project final version\obj\Debug\StartMenu.MainMenu.resources
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Programing III\Midterm Project Quarto\Quarto midterm project final version\obj\Debug\StartMenu.GamePlay.resources
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Programing III\Midterm Project Quarto\Quarto midterm project final version\obj\Debug\StartMenu.Properties.Resources.resources
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Programing III\Midterm Project Quarto\Quarto midterm project final version\obj\Debug\StartMenu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Programing III\Midterm Project Quarto\Quarto midterm project final version\obj\Debug\StartMenu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Programing III\Midterm Project Quarto\Quarto midterm project final version\obj\Debug\StartMenu.exe
+C:\Users\user\Desktop\UNI\Seconde Year\Semester 3\Programing III\Midterm Project Quarto\Quarto midterm project final version\obj\Debug\StartMenu.pdb
